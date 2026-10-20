@@ -1,0 +1,12 @@
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local vector database and generated data
+chroma_db/
+.DS_Store
